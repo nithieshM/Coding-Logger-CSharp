@@ -2,8 +2,7 @@
 
 This simple coding logger application in C# allows users to track their coding sessions by recording start time, end time, and duration. It utilizes SQLite for data storage and Spectre.Console for command-line interaction.
 
-I made this application to practice my C# skills.
-In case anyone wants to actually use this to track their coding sessions, I would recommend just letting it run on your background.
+I made this application to practice my C# skills. In case anyone wants to use this app to track their sessions, I would recommend starting a session and letting it run in the background.
 
 ## Installation
 
@@ -47,8 +46,14 @@ Upon running the application, users are presented with a menu interface where th
 - [Spectre.Console](https://github.com/spectresystems/spectre.console)
 - [Microsoft.Data.Sqlite](https://www.nuget.org/packages/Microsoft.Data.Sqlite)
 
+## Contributing
 
+Contributions are welcome! Feel free to open issues or submit pull requests for any enhancements or bug fixes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-For detailed usage instructions and code examples, refer to the source files in the repository. Thank you for using the Coding Logger Application! 
+For detailed usage instructions and code examples, refer to the source files in the repository. Thank you for using the Coding Logger Application!
