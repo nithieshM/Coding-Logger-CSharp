@@ -46,14 +46,6 @@ Upon running the application, users are presented with a menu interface where th
 - [Spectre.Console](https://github.com/spectresystems/spectre.console)
 - [Microsoft.Data.Sqlite](https://www.nuget.org/packages/Microsoft.Data.Sqlite)
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 For detailed usage instructions and code examples, refer to the source files in the repository. Thank you for using the Coding Logger Application!
