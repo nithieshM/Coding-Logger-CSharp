@@ -18,7 +18,7 @@ internal static class Menu
             table.AddRow(new Markup("[violet]1. Start Logger[/]"));
             table.AddRow(new Markup("[green]2. View Sessions[/]"));
             table.AddRow(new Markup("[blue]3. Delete Sessions[/]"));
-            table.AddRow(new Markup("[bold red]Type 0 to exit the program. [/]\n"));
+            table.AddRow(new Markup("[bold red]Type 0 to exit the program.[/]\n"));
             table.Border(TableBorder.Rounded);
             table.HideFooters();
             AnsiConsole.Write(table);
