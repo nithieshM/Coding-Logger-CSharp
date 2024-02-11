@@ -1,9 +1,7 @@
 ﻿using System.Configuration;
+using Microsoft.Data.Sqlite;
 
 namespace CodingTracker;
-
-using Spectre.Console;
-using Microsoft.Data.Sqlite;
 
 static internal class Model
 {
